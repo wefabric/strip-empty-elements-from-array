@@ -1,0 +1,17 @@
+{
+    "name": "wefabric/strip-empty-elements-from-array",
+    "description": "Strips empty elements from array",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wefabric\\StripEmptyElementsFromArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Nauta",
+            "email": "kevin@wefabric.nl"
+        }
+    ],
+    "require": {}
+}
