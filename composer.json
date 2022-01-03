@@ -2,6 +2,11 @@
     "name": "wefabric/strip-empty-elements-from-array",
     "description": "Strips empty elements from array",
     "license": "MIT",
+    "keywords": [
+        "wefabric",
+        "array",
+        "empty"
+    ],
     "autoload": {
         "psr-4": {
             "Wefabric\\StripEmptyElementsFromArray\\": "src/"
@@ -13,5 +18,8 @@
             "email": "kevin@wefabric.nl"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require-dev": {
+        "symfony/var-dumper": "6.1.x-dev"
+    }
 }
